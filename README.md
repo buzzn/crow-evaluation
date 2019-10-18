@@ -1,4 +1,4 @@
-# crow-evaluation
+# pistache-evaluation
 My BUZZN minimal backend prototype.
 
 ## Getting Started
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Built With
 * C++11
-* [Crow](https://github.com/ipkn/crow)
+* [Pistache](https://github.com/oktal/pistache/)
 
 ## Run
 
