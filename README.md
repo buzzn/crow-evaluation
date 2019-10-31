@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With
 * C++11
 * [Pistache](https://github.com/oktal/pistache/)
+* [Websocket++](https://github.com/zaphoyd/websocketpp)
 
 ## Run
 g++ -L/usr/lib -llibpistache app.cpp -o app
