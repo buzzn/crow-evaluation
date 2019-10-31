@@ -11,6 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 * [Pistache](https://github.com/oktal/pistache/)
 
 ## Run
+* g++ -L/usr/lib -llibpistache app.cpp -o app
+* ./app
+* http://localhost:9080
 
 ## Acknowledgements
 * [oktal/pistache/examples](https://github.com/oktal/pistache/tree/master/examples)
