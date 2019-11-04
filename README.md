@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [Websocket++](https://github.com/zaphoyd/websocketpp)
 
 ## Run
-g++ -L/usr/lib -llibpistache app.cpp -o app
+g++ -L/usr/lib -lpistache app.cpp -o app
 ./app
 http://localhost:9080
 
