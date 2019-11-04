@@ -20,3 +20,6 @@ http://localhost:9080
 ## Acknowledgements
 * [oktal/pistache/examples](https://github.com/oktal/pistache/tree/master/examples)
 
+## Known Issues
+* https://github.com/oktal/pistache/issues/217
+* https://github.com/zaphoyd/websocketpp/issues/843
